@@ -16,7 +16,9 @@ MIMIC-CXR (PhysioNet)
 python main.py
 --------------------------------
 Team members contribution of project.
-Ch.vinaykumar - SE25MAID052
+Ch.vinaykumar - SE25MAID052                   
 V.Santosh. - SE25MAIDO50
+
 Y.Chaitanya karthik- SE25MAIDO32
+
 G.Hem Kamal. - SE25MAID027
