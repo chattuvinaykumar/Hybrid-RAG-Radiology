@@ -25,3 +25,6 @@ Y.Chaitanya karthik-SE25MAID032.
 ----------------------------------
 These are my project report of google drive link.
 https://drive.google.com/file/d/1fOgiJ2WT7K1057GJqgPJF-ZdAeCq6dkB/view?usp=drivesdk
+-------------------------------------
+this is our project link deployed by github only.
+https://chattuvinaykumar.github.io/Hybrid-RAG-Radiology-Demo/
